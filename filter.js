@@ -4,7 +4,7 @@ let sequence = [1,2,3,4,5,6,7,8,9,10]
 //     if(value%2 !== 0){
 //         return value;
 //     }else if(value%3 === 0){
-//         return value;
+//         return value;hello
 //     }
 
 // console.log('result :',divide);
