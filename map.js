@@ -5,3 +5,6 @@ let store = sequence.map((value)=>{
 })
 
 console.log('result :',store)
+
+
+
