@@ -17,12 +17,15 @@
  
 //  })
 
+// "foreach" returns only the values not an array of values...
+
  let sequenced = ["guvi", "is", "the", "software", "training"]
 
 
-  sequenced.forEach((value) =>{
+   sequenced.forEach((value) =>{
                console.log(value)
                return value;
 
 });
+
 
